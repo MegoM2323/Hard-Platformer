@@ -1,0 +1,50 @@
+# === UNITY PROJECT FILES ===
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+UserSettings/
+
+# === RIDER / JETBRAINS ===
+.idea/
+*.sln.iml
+
+# === VS / MSBUILD ===
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# === VS CODE ===
+.vscode/
+
+# === SYSTEM FILES ===
+.DS_Store
+Thumbs.db
+
+# === UNITY GENERATED / TEMP ===
+sysinfo.txt
+*.apk
+*.aab
+*.apk.meta
+*.aab.meta
+
+# === BUILD KEYS / SENSITIVE ===
+SnafyKey.keystore
+
+# === PACKAGE MANAGER ===
+Packages/packages-lock.json

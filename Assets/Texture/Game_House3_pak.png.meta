@@ -1,0 +1,1406 @@
+fileFormatVersion: 2
+guid: 340f5e0a21b86984eb69400a0370784a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4730974038430029272
+    second: Game_House3_pak_0
+  - first:
+      213: 9108735436654861089
+    second: Game_House3_pak_1
+  - first:
+      213: -7653435601855912279
+    second: Game_House3_pak_2
+  - first:
+      213: 5058483790346886170
+    second: Game_House3_pak_3
+  - first:
+      213: -6105174459802148485
+    second: Game_House3_pak_4
+  - first:
+      213: 7793962837535603328
+    second: Game_House3_pak_5
+  - first:
+      213: -8197774248911391882
+    second: Game_House3_pak_6
+  - first:
+      213: 59330385370451683
+    second: Game_House3_pak_7
+  - first:
+      213: -3501738407709905901
+    second: Game_House3_pak_8
+  - first:
+      213: 7799275057802754378
+    second: Game_House3_pak_9
+  - first:
+      213: -4254524940333056485
+    second: Game_House3_pak_10
+  - first:
+      213: -7918025295372017444
+    second: Game_House3_pak_11
+  - first:
+      213: -51689595051103583
+    second: Game_House3_pak_12
+  - first:
+      213: -3315927277310095149
+    second: Game_House3_pak_13
+  - first:
+      213: -5520041015916324830
+    second: Game_House3_pak_14
+  - first:
+      213: 8557974861681192056
+    second: Game_House3_pak_15
+  - first:
+      213: 6133943785003000799
+    second: Game_House3_pak_16
+  - first:
+      213: 6389248192335648839
+    second: Game_House3_pak_17
+  - first:
+      213: 5198445361713583324
+    second: Game_House3_pak_18
+  - first:
+      213: 5328558688540274246
+    second: Game_House3_pak_19
+  - first:
+      213: -8659467856739421047
+    second: Game_House3_pak_20
+  - first:
+      213: -3365922181082529178
+    second: Game_House3_pak_21
+  - first:
+      213: 8196427311278543334
+    second: Game_House3_pak_22
+  - first:
+      213: -4937748229908132536
+    second: Game_House3_pak_23
+  - first:
+      213: -5342502057833913050
+    second: Game_House3_pak_24
+  - first:
+      213: 7006986829916229152
+    second: Game_House3_pak_25
+  - first:
+      213: -7552544700636307062
+    second: Game_House3_pak_26
+  - first:
+      213: 7683094865332295907
+    second: Game_House3_pak_27
+  - first:
+      213: 3340089127767532983
+    second: Game_House3_pak_28
+  - first:
+      213: -641039588575840819
+    second: Game_House3_pak_29
+  - first:
+      213: 289735495703330530
+    second: Game_House3_pak_30
+  - first:
+      213: 6849405025018757350
+    second: Game_House3_pak_31
+  - first:
+      213: 1964065307423917299
+    second: Game_House3_pak_32
+  - first:
+      213: 8251181777220825833
+    second: Game_House3_pak_33
+  - first:
+      213: -7672527325105895416
+    second: Game_House3_pak_34
+  - first:
+      213: 6883586000793726775
+    second: Game_House3_pak_35
+  - first:
+      213: -2694201679925943116
+    second: Game_House3_pak_36
+  - first:
+      213: 5201594831291275951
+    second: Game_House3_pak_37
+  - first:
+      213: -5014008401350695181
+    second: Game_House3_pak_38
+  - first:
+      213: -8469640104853503619
+    second: Game_House3_pak_39
+  - first:
+      213: 702714209509462233
+    second: Game_House3_pak_40
+  - first:
+      213: 1545918959370092661
+    second: Game_House3_pak_41
+  - first:
+      213: -8723917907329922370
+    second: Game_House3_pak_42
+  - first:
+      213: -4417987187790528969
+    second: Game_House3_pak_43
+  - first:
+      213: 9187910302516936852
+    second: Game_House3_pak_44
+  - first:
+      213: -4907714674209528775
+    second: Game_House3_pak_45
+  - first:
+      213: 723399474648801947
+    second: Game_House3_pak_46
+  - first:
+      213: 7891591028296036169
+    second: Game_House3_pak_47
+  - first:
+      213: -8530314267818971044
+    second: Game_House3_pak_48
+  - first:
+      213: -5199156600273157328
+    second: Game_House3_pak_49
+  - first:
+      213: 7992203934844947952
+    second: Game_House3_pak_50
+  - first:
+      213: 5059717916812835375
+    second: Game_House3_pak_51
+  - first:
+      213: 3104123363345873726
+    second: Game_House3_pak_52
+  - first:
+      213: 2702675606493698555
+    second: Game_House3_pak_53
+  - first:
+      213: -5655804064961434884
+    second: Game_House3_pak_54
+  - first:
+      213: -6488707540567788193
+    second: Game_House3_pak_55
+  - first:
+      213: 3728356474680573620
+    second: Game_House3_pak_56
+  - first:
+      213: 3751135933863242763
+    second: Game_House3_pak_57
+  - first:
+      213: 5589463299083443984
+    second: Game_House3_pak_58
+  - first:
+      213: -1892076428243958299
+    second: Game_House3_pak_59
+  - first:
+      213: -2334886494863919296
+    second: Game_House3_pak_60
+  - first:
+      213: 8838045340505244979
+    second: Game_House3_pak_61
+  - first:
+      213: 5715735561552494824
+    second: Game_House3_pak_62
+  - first:
+      213: -604038418285167127
+    second: Game_House3_pak_63
+  - first:
+      213: 4334531576478178656
+    second: Game_House3_pak_64
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game_House3_pak_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 929
+        width: 53
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5973a72dbc7a140800000000000000
+      internalID: 4730974038430029272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_House3_pak_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 857
+        width: 51
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b53d69e9ab86e70800000000000000
+      internalID: 9108735436654861089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_House3_pak_2
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 853
+        width: 55
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6ec08aed889c590800000000000000
+      internalID: -7653435601855912279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_House3_pak_3
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 915
+        width: 167
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c92b1d438533640800000000000000
+      internalID: 5058483790346886170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_House3_pak_4
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 921
+        width: 156
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71a4b7ec20164ba0800000000000000
+      internalID: -6105174459802148485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_House3_pak_5
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 824
+        width: 135
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ab7e318e7b92c60800000000000000
+      internalID: 7793962837535603328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_House3_pak_6
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 829
+        width: 171
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673bac811c7ab3e80800000000000000
+      internalID: -8197774248911391882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_House3_pak_7
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 691
+        width: 97
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee8460dba8c2d000800000000000000
+      internalID: 59330385370451683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_House3_pak_8
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 688
+        width: 97
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ceb10a873576fc0800000000000000
+      internalID: -3501738407709905901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_House3_pak_9
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 685
+        width: 97
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49b5edb7579c3c60800000000000000
+      internalID: 7799275057802754378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_House3_pak_10
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 734
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e7863bb14e4f4c0800000000000000
+      internalID: -4254524940333056485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_House3_pak_11
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 707
+        width: 169
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd02bc202f58d1290800000000000000
+      internalID: -7918025295372017444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_House3_pak_12
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 574
+        width: 74
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa2560569c584ff0800000000000000
+      internalID: -51689595051103583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_House3_pak_13
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 571
+        width: 74
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d057e6b5b57bf1d0800000000000000
+      internalID: -3315927277310095149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_House3_pak_14
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 567
+        width: 74
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22898b441ffd463b0800000000000000
+      internalID: -5520041015916324830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_House3_pak_18
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 486
+        width: 75
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd417319386942840800000000000000
+      internalID: 5198445361713583324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_House3_pak_19
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 486
+        width: 90
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ea34335e7d2f940800000000000000
+      internalID: 5328558688540274246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_House3_pak_20
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 446
+        width: 7
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98432273dd363d780800000000000000
+      internalID: -8659467856739421047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_House3_pak_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 446
+        width: 8
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662c7f61c97d941d0800000000000000
+      internalID: -3365922181082529178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_House3_pak_22
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 446
+        width: 7
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1511c863f8fb170800000000000000
+      internalID: 8196427311278543334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_House3_pak_23
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 509
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d030e6528997bb0800000000000000
+      internalID: -4937748229908132536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_House3_pak_25
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 507
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e4ffea561dd3160800000000000000
+      internalID: 7006986829916229152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_House3_pak_26
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 508
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8160502c98ff2790800000000000000
+      internalID: -7552544700636307062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_House3_pak_27
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 509
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e852cfb216df9a60800000000000000
+      internalID: 7683094865332295907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_House3_pak_28
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 505
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b56aba7d516a5e20800000000000000
+      internalID: 3340089127767532983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_House3_pak_32
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 424
+        width: 75
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4cba4bdf2c14b10800000000000000
+      internalID: 1964065307423917299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_House3_pak_33
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 424
+        width: 90
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e27c681c16128270800000000000000
+      internalID: 8251181777220825833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_House3_pak_34
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 445
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808c5917c05b58590800000000000000
+      internalID: -7672527325105895416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_House3_pak_36
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 443
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4e0cab8d54c9ad0800000000000000
+      internalID: -2694201679925943116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_House3_pak_37
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 444
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faadf9890f6cf2840800000000000000
+      internalID: 5201594831291275951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_House3_pak_38
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 445
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6eaa0ace9aa6ab0800000000000000
+      internalID: -5014008401350695181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_House3_pak_39
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 440
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d710eced23bc57a80800000000000000
+      internalID: -8469640104853503619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_House3_pak_40
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 365
+        width: 75
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d05e64b9da80c900800000000000000
+      internalID: 702714209509462233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_House3_pak_41
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 365
+        width: 90
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570cbc85a15347510800000000000000
+      internalID: 1545918959370092661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_House3_pak_42
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 367
+        width: 7
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba4ee372ea6ee680800000000000000
+      internalID: -8723917907329922370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_House3_pak_43
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 367
+        width: 7
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73eb4896f0820b2c0800000000000000
+      internalID: -4417987187790528969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_House3_pak_44
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 367
+        width: 7
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4908ca19db3028f70800000000000000
+      internalID: 9187910302516936852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_House3_pak_45
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 29
+        width: 238
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934e4c8818b44ebb0800000000000000
+      internalID: -4907714674209528775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_House3_pak_46
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 367
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92652d4df70a0a00800000000000000
+      internalID: 723399474648801947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_House3_pak_47
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 369
+        width: 130
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fae329a30948d60800000000000000
+      internalID: 7891591028296036169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_House3_pak_50
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 59
+        width: 224
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd89ec52230aee60800000000000000
+      internalID: 7992203934844947952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_House3_pak_51
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 303
+        width: 164
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2afe4743aab73640800000000000000
+      internalID: 5059717916812835375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_House3_pak_55
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 232
+        width: 164
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55fe09deda73f5a0800000000000000
+      internalID: -6488707540567788193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_House3_pak_56
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 172
+        width: 154
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4befc55c578cdb330800000000000000
+      internalID: 3728356474680573620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_House3_pak_60
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 94
+        width: 162
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04777ca8a11d89fd0800000000000000
+      internalID: -2334886494863919296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_House3_pak_64
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 20
+        width: 169
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d12b3e089572c30800000000000000
+      internalID: 4334531576478178656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_House3_pak_15
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 575
+        width: 150
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87cea3b6bc804c670800000000000000
+      internalID: 8557974861681192056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_House3_pak_16
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 477
+        width: 175
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3a1599f55202550800000000000000
+      internalID: 6133943785003000799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_House3_pak_17
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 262
+        width: 156
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74819f5116b2ba850800000000000000
+      internalID: 6389248192335648839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_House3_pak_29
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 141
+        width: 144
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc579fbf3e19a17f0800000000000000
+      internalID: -641039588575840819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_House3_pak_30
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 37
+        width: 169
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eef734f5e8550400800000000000000
+      internalID: 289735495703330530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
